@@ -1,6 +1,5 @@
 # sctp-ce6-mod3.13
 
-[![Lambda with Python Function and Tofu Deployment](https://github.com/tsanghan/sctp-ce6-mod3.13/actions/workflows/ci.yaml/badge.svg)](https://github.com/tsanghan/sctp-ce6-mod3.13/actions/workflows/ci.yaml)
 
 Please see screen captures below for the activities for SCTP Module 3.13.
 
